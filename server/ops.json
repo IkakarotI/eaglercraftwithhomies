@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "8233a3a9-83b4-3806-9197-c6e6e531971b",
+    "name": "Butterdawg",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "37129952-2093-3969-b688-5e931f9e1cc8",
+    "name": "Butter",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
